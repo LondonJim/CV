@@ -15,7 +15,7 @@ I can use a range of creative ways to achieve desired outcomes. During the final
 **Collaborative** -
 I work well with all people. I am open minded, patient and approachable. I have experience working collaboratively in a range of different types of teams, whether following instruction from senior members or being in charge of a team myself. People respond well to my calm demeanour and my ability to talk problems and situations through, taking onboard suggestions and new ideas to achieve the best outcomes.
 
-During my time at Makers I enjoyed working within a team and completing projects within a given timeframe. Working with Agile methodologies and processes, I found was a great way to work and from fellow Makers I received excellent feedback about my clear explanations and postive attitude, motivating other members in the group.
+During my time at Makers I enjoyed working within a team and completing projects within a given timeframe. Working with Agile methodologies and processes, I found was a great way to work and from fellow Makers I received excellent feedback about my clear explanations and positive attitude, motivating other members in the group.
 
 
 ## Projects
