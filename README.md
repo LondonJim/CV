@@ -27,7 +27,7 @@ During my time at Makers I enjoyed working within a team and completing projects
 [Chitter](https://github.com/LondonJim/chitter-challenge) | 2 days | A full-stack clone of Twitter, wrote own ORM | Ruby, Sinatra, PostgreSQL | RSpec, Capybara |
 [Bank Tech Test](https://github.com/LondonJim/bank-tech-test) | Around a day | Practice tech test completed in roughly a day. Focus on applying strong TDD process and OO principles. | Ruby | RSpec |
 [Personal Website](https://github.com/LondonJim/personal-website) | On going | Using HTML, CSS and JavaScript to create my own CV site. View it [here](http://jimmysutherland.herokuapp.com)! | HTML, CSS, JavaScript |  |
-[User API](https://github.com/LondonJim/Sinatra-User-API) | Inbetween learning and other projects | Using ActiveRecord, JWT and encryption to create a user API, tested with RSpec | Ruby, Sinatra | RSpec |
+[User API](https://github.com/LondonJim/Sinatra-User-API) | Inbetween learning and other projects | Using ActiveRecord, JWT and encryption to create a user API, tested with RSpec | Ruby, Sinatra, ActiveRecord, PostgreSQL | RSpec |
 
 *I'm continally learning and trying out new ideas as reflected on my GitHub site*
 
