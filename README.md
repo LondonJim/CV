@@ -28,6 +28,8 @@ During my time at Makers I enjoyed working within a team and completing projects
 [Bank Tech Test](https://github.com/LondonJim/bank-tech-test) | Around a day | Practice tech test completed in roughly a day. Focus on applying strong TDD process and OO principles. | Ruby | RSpec |
 [Personal Website](https://github.com/LondonJim/personal-website) | On going | Using HTML, CSS and JavaScript to create my own CV site. View it [here](http://jimmysutherland.herokuapp.com)! | HTML, CSS, JavaScript |  |
 [User API](https://github.com/LondonJim/Sinatra-User-API) | Inbetween learning and other projects | Using ActiveRecord, JWT and encryption to create a user API, tested with RSpec | Ruby, Sinatra, ActiveRecord, PostgreSQL | RSpec |
+[News to Petition](https://github.com/LondonJim/Chrome-Extension-Petitions) |  | Chrome Extension. Idea came from revoke Article 50 news coverage. Download [here](https://chrome.google.com/webstore/detail/news-to-petition/pkbiobdkinbilfodhicdhnedacnigikb)!| JavaScript | Jasmine, CodeceptJS w/Puppeteer |
+
 
 *I'm continally learning and trying out new ideas as reflected on my GitHub site*
 
